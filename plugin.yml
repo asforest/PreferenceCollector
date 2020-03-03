@@ -1,0 +1,10 @@
+name: PreferenceCollector
+main: cn.innc11.preferencepollector.Main
+version: "1.0"
+author: innc11
+api: ["1.0.0"]
+prefix: "P.Collector"
+commands:
+  pco:
+    usage: "/pco"
+    description: "The PreferenceCollector plugin main command"
